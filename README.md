@@ -24,7 +24,7 @@ pip install opencv-python numpy
 python main.py
 
 ## 🎥 Demo
-
+(tast-ezgif.com-video-to-gif-converter)[open]
 
 
 ## ✅ Features
