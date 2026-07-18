@@ -24,7 +24,7 @@ pip install opencv-python numpy
 python main.py
 
 ## 🎥 Demo
-
+(test.mp4)[open]
 
 ## ✅ Features
 - Detects Red, Green, and Blue colors
