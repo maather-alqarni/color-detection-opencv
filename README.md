@@ -24,7 +24,6 @@ pip install opencv-python numpy
 python main.py
 
 ## 🎥 Demo
-[اضغط هنا لتشغيل الفيديو](assets/tast.mp4)
 
 
 
